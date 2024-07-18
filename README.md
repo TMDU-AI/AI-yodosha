@@ -1,6 +1,6 @@
 # AI-yodosha(『Pythonで体感！ 医療とAIはじめの一歩』サポートページ )
 
-<table style="border: none; border-collapse: collapse;">
+<table style="border-collapse: collapse; width: 100%;">
   <tr style="border: none;">
     <td style="border: none; vertical-align: top;">
       こちらでは書籍『<a href="https://www.yodosha.co.jp/yodobook/book/9784758124188/index.html">Pythonで体感！ 医療とAIはじめの一歩</a>』（発行：羊土社）で使用するipynbファイルやサンプルのcsvファイル、画像ファイルをダウンロードできます。書籍と合わせてぜひご活用ください。
