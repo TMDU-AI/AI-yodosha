@@ -1,12 +1,13 @@
-# AI-yodosha
+# AI-yodosha(『Pythonで体感！ 医療とAIはじめの一歩』サポートページ )
 
-『Pythonで体感！ 医療とAIはじめの一歩』サポートページ 
+
+
+ ![羊土社_医療AI表紙画像](https://github.com/user-attachments/assets/dea3d2ec-13b6-4b4d-b5cd-43da867dc12f)
+
 
  
 
- 
 
-（表紙画像入れる（出来次第お送りいたします）） 
 
  
 
